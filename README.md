@@ -1,6 +1,6 @@
 # Gender Age Detector
 
-#### Creator: Aubry McConnell
+#### Creator: Rose McConnell
 #### Project Title: GenderAgeDetector
 #### Date: June 22, 2023
 
